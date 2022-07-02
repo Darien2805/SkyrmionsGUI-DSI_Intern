@@ -48,10 +48,12 @@ Mouse events are in placed in the code for easier accessibility and easy to be u
 6. When the 'Fitting' button is pressed. The curve is then fitted to a 2 dimensional isotropic Gaussian model:  
 ![Image 9](Images/Formula1.JPG)  
 The image will focus on the Skyrmion that is identified and plot the graph according to the intensity value against the x-axis of the image.  
-| ![Image 10](Images/Picture8.jpg) | ![Image 11](Images/Picture9.jpg) |
+![Image 10](Images/Picture8.jpg)  
+![Image 11](Images/Picture9.jpg)
 
 7. The 'Next Fit' and 'Previous Fit' buttons helps the user to run through which individual Skyrmion he wishes to look at.  
-| ![Image 12](Images/Picture10.jpg) | ![Image 13](Images/Picture11.jpg) |
+![Image 12](Images/Picture10.jpg)  
+![Image 13](Images/Picture11.jpg)
 
 8. When the 'Accurate Refit' button is pressed, it will execute fitting over a given range of window size of the image and the best fit will be selected based on the minimum intensity  
 ![Image 14](Images/Formula2.JPG)  
