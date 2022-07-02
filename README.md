@@ -20,6 +20,7 @@ The systems would take in an image  preferably in binary or jpeg format.
 
 2. If the user would wish to filter the image, clicking the 'filter threshold' button will help blur the image through a Gaussian Filter Algorithm.  
 The purpose of filtering the image helps to reduce the noise or disturbances being picked up from the experiment, hence not identifying the noises as Skyrmions.  
+
 | Before        | After         |
 | --- | --- |
 | ![Image 2](Images/Picture2.jpg) | ![Image 3](Images/Picture3.jpg) |  
