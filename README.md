@@ -22,7 +22,7 @@ The systems would take in an image  preferably in binary or jpeg format.
 The purpose of filtering the image helps to reduce the noise or disturbances being picked up from the experiment, hence not identifying the noises as Skyrmions.  
 | Before        | After         |
 | --- | --- |
-| ![Image 5](Images/Picture5.jpg) | ![Image 6](Images/Picture7.jpg) |  
+| ![Image 2](Images/Picture2.jpg) | ![Image 3](Images/Picture3.jpg) |  
 
 
 3. When one of the options Global or adaptive is chosen and the 'threshold' button is clicked, the system will identify the Skyrmions based on criteria or known equations.  
