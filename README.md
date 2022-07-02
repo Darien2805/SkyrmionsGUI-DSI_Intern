@@ -58,5 +58,4 @@ The image will focus on the Skyrmion that is identified and plot the graph accor
 ![Image 13](Images/Picture11.jpg)
 
 8. When the 'Accurate Refit' button is pressed, it will execute fitting over a given range of window size of the image and the best fit will be selected based on the minimum intensity  
-![Image 14](Images/Formula2.JPG)  
 ![Image 15](Images/Picture12.jpg)  
