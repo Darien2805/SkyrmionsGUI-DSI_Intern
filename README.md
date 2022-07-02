@@ -35,7 +35,7 @@ The algorithms written in the code helps to identify how many regions are there 
 Mouse events are in placed in the code for easier accessibility and easy to be use by the user.  
 **Example of Addition.**  
 
-| Before        | After         |
+| Before    | After |
 | --- | --- |
 | ![Image 5](Images/Picture5.jpg) | ![Image 6](Images/Picture7.jpg) |  
 
