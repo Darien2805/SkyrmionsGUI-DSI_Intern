@@ -24,7 +24,7 @@ The purpose of filtering the image helps to reduce the noise or disturbances bei
 | --- | --- |
 | ![Image 2](Images/Picture2.jpg) | ![Image 3](Images/Picture3.jpg) |  
 
-3. When one of the options Global or adaptive is chosen and the 'threshold' button is clicked, the system will identify the Skyrmions based on criteria or known equations.
+3. When one of the options Global or adaptive is chosen and the 'threshold' button is clicked, the system will identify the Skyrmions based on criteria or known equations.  
 ![Image 4](Images/Picture4.jpg)
 
 4. Output the properties of the Skyrmions such as area and perimeter when the 'Regioning' button is clicked.  
