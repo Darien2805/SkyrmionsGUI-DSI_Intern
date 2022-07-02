@@ -19,7 +19,7 @@ The systems would take in an image  preferably in binary or jpeg format.
 ![Image 1](Images/Picture1.jpg)
 
 2. If the user would wish to filter the image, clicking the 'filter threshold' button will help blur the image through a Gaussian Filter Algorithm.  
-The purpose of filtering the image helps to reduce the noise or disturbances being picked up from the experiment, hence not identifying the noises as Skyrmions.
+The purpose of filtering the image helps to reduce the noise or disturbances being picked up from the experiment, hence not identifying the noises as Skyrmions.  
 | Before        | After         |
 | --- | --- |
 | ![Image 2](Images/Picture2.jpg) | ![Image 3](Images/Picture3.jpg) |  
@@ -35,7 +35,7 @@ The algorithms written in the code helps to identify how many regions are there 
 Mouse events are in placed in the code for easier accessibility and easy to be use by the user.  
 **Example of Addition.**  
 
-| Before    | After |
+| Before        | After         |
 | --- | --- |
 | ![Image 5](Images/Picture5.jpg) | ![Image 6](Images/Picture7.jpg) |  
 
